@@ -1,0 +1,8 @@
+Activating the enviroment
+
+conda env create -f environment.yml
+conda activate rag_frontend
+
+Activating the app
+
+streamlit run app.py
